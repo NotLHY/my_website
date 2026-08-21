@@ -1,0 +1,4 @@
+configuration:
+  pageTitle: "我的网站"
+  baseUrl: "notlhy.github.io/my-website"
+  locale: "zh-CN"
