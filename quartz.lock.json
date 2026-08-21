@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "note-properties": {
+      "source": "github:quartz-community/note-properties",
+      "resolved": "https://github.com/quartz-community/note-properties.git",
+      "commit": "e68145b9f11b31d3168ed2755bd74f36a67dbed7",
+      "installedAt": "2026-08-21T13:20:05.872Z"
+    },
+    "syntax-highlighting": {
+      "source": "github:quartz-community/syntax-highlighting",
+      "resolved": "https://github.com/quartz-community/syntax-highlighting.git",
+      "commit": "071bdbd9b164be42018456c53e86a245c977649c",
+      "installedAt": "2026-08-21T13:21:13.666Z"
+    }
+  }
+}
