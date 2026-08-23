@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: notlhy.github.io/my-website
+  baseUrl: https://notlhy.github.io/my-website/
   ignorePatterns:
     - private
     - templates
